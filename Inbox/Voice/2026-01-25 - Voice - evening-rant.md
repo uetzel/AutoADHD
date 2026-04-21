@@ -22,11 +22,12 @@ Oh and Jordan texted — he wants to do the monthly call next Thursday instead o
 ## Extracted
 
 **Entities created/updated:**
+- Updated: [[Usman Kotwal]] — owner context (working from kitchen table, neck pain)
 - Updated: [[Alex Chen]] — prototype progress noted
 - Updated: [[Build MVP Prototype]] — pipeline works, needs onboarding flow
 - Updated: [[Conduct User Interviews]] — Sam knows 2 test users
 - Updated: [[Sam Rivera]] — mentioned as source of test users
-- Updated: [[Set Up Home Office]] — recurring mention, neck pain
+- Updated: [[Set Up Home Office]] — recurring mention, Usman's neck pain
 - Updated: [[Jordan Park]] — monthly call rescheduled to Thursday
 
 <!-- source: ai-extracted, agent: Extractor, 2026-01-25T20:15 -->

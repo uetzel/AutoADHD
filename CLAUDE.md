@@ -365,7 +365,7 @@ Every note MUST have a type-appropriate emoji at the start of its `# H1` heading
 | research | 🔬 | `# 🔬 Market Analysis: Strategy Tools` |
 | project | 📁 | `# 📁 VaultSandbox` |
 | place | 📍 | `# 📍 Hamburg Barmbek` |
-| organization | 🏢 | `# 🏢 Merck Group` |
+| organization | 🏢 | `# 🏢 Acme Labs` |
 | ai-reflection | 🤖 | `# 🤖 Weekly Reflection W12` |
 | emerging | 🌱 | `# 🌱 Half-formed idea about X` |
 | sprint-task | 🏗️ | `# 🏗️ Fix Voice Pipeline` |

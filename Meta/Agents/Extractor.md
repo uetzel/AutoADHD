@@ -217,7 +217,7 @@ Every note the Extractor creates or updates MUST have a type-appropriate emoji a
 | research | 🔬 | `# 🔬 Market Analysis: Strategy Tools` |
 | project | 📁 | `# 📁 VaultSandbox` |
 | place | 📍 | `# 📍 Hamburg Barmbek` |
-| organization | 🏢 | `# 🏢 Merck Group` |
+| organization | 🏢 | `# 🏢 Acme Labs` |
 | ai-reflection | 🤖 | `# 🤖 Weekly Reflection W12` |
 | emerging | 🌱 | `# 🌱 Half-formed idea about X` |
 

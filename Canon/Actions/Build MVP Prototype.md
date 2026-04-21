@@ -44,7 +44,7 @@ Get a working prototype in front of 5 test users by end of February. Doesn't nee
 
 ## Context
 
-[[Alex Chen]] is handling the backend. I'm responsible for the flow and getting testers. [[Sam Rivera]] offered to review the UX before we show anyone.
+[[Alex Chen]] is handling the backend. [[Usman Kotwal]] is responsible for the flow and getting testers. [[Sam Rivera]] offered to review the UX before we show anyone.
 
 ## Evolution
 

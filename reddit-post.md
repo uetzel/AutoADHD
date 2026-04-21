@@ -112,4 +112,4 @@ MIT licensed. Fork it, break it, make it yours.
 
 ---
 
-*Built on Obsidian + Whisper + Claude + Telegram + 59 shell scripts and one very stubborn ADHD brain. AMA in the comments.*
+*Built by Usman Kotwal on Obsidian + Whisper + Claude + Telegram + 59 shell scripts and one very stubborn ADHD brain. [LinkedIn](https://www.linkedin.com/in/usman-kotwal/) if you want to connect. AMA in the comments.*

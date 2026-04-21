@@ -14,6 +14,7 @@ contact:
   email: sam.rivera@email.com
   city: Hamburg
 linked:
+  - "[[Usman Kotwal]]"
   - "[[Alex Chen]]"
   - "[[Conduct User Interviews]]"
 locked: []
@@ -21,7 +22,7 @@ locked: []
 
 # 👤 Sam Rivera
 
-Product designer. Freelance, based in Hamburg. Known since university — studied together, drifted apart, reconnected over shared ADHD diagnosis.
+Product designer. Freelance, based in Hamburg. Known [[Usman Kotwal]] since university — studied together, drifted apart, reconnected over shared ADHD diagnosis.
 
 ## Context
 

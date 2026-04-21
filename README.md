@@ -564,4 +564,6 @@ MIT — use it, fork it, make it yours.
 
 ---
 
-Built by [Usman Kotwal](https://github.com/uetzel) — an amateur with ADHD who got tired of forgetting everything.
+Built by **Usman Kotwal** — an amateur with ADHD who got tired of forgetting everything.
+
+[GitHub](https://github.com/uetzel) · [LinkedIn](https://www.linkedin.com/in/usman-kotwal/)

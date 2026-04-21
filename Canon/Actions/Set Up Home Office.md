@@ -7,7 +7,7 @@ source: voice
 source_agent: Extractor
 source_date: 2026-01-18T20:00
 first_mentioned: 2026-01-18
-owner: "[[You]]"
+owner: "[[Usman Kotwal]]"
 output: "Dedicated workspace that doesn't make me want to leave"
 enrichment_status: enriched
 mentions:
