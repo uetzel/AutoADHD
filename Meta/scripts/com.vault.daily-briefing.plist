@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.vault.daily-briefing</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>HOME_DIR_PLACEHOLDER/VaultSandbox/Meta/scripts/daily-briefing.sh</string>
+    </array>
+    <!-- Run every morning at 7:30 AM -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/tmp/vault-daily-briefing.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/vault-daily-briefing.err</string>
+</dict>
+</plist>

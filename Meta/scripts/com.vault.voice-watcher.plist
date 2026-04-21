@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.vault.voice-watcher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>HOME_DIR_PLACEHOLDER/VaultSandbox/Meta/scripts/watch-voice-drop.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>HOME_DIR_PLACEHOLDER/VaultSandbox</string>
+
+    <key>WatchPaths</key>
+    <array>
+        <string>HOME_DIR_PLACEHOLDER/VaultSandbox/Inbox/Voice/_drop</string>
+    </array>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/vault-voice-watcher.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/vault-voice-watcher.err</string>
+</dict>
+</plist>

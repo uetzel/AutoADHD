@@ -1,0 +1,38 @@
+# Environment and secrets
+.env
+*.env.local
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Obsidian workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Voice pipeline working directories
+Inbox/Voice/_drop/*.ogg
+Inbox/Voice/_drop/*.m4a
+Inbox/Voice/_processing/
+
+# Agent locks and temp files
+Meta/.voice-progress/
+Meta/scripts/*.lock
+*.lock
+
+# Token usage logs (personal)
+Meta/agent-token-usage.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Backup files
+*.bak
+*.tmp
+*~

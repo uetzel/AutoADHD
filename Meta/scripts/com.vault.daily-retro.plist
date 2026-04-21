@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.vault.daily-retro</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>HOME_DIR_PLACEHOLDER/VaultSandbox/Meta/scripts/run-retro.sh</string>
+    </array>
+    <!-- Run every evening at 9:00 PM -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>21</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/tmp/vault-daily-retro.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/vault-daily-retro.err</string>
+</dict>
+</plist>
