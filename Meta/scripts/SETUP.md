@@ -580,7 +580,7 @@ aliases:                         # alternative names/spellings
   - Jeremia
 tags:                            # for quick scanning/clustering
   - best-friend
-  - merck
+  - work
   - hamburg
 linked:                          # explicit relationships
   - "[[Usman Kotwal]]"
@@ -614,7 +614,7 @@ Standard tags for people entries:
 
 **Relationship**: `family`, `best-friend`, `close-friend`, `friend`, `partner`, `colleague`, `former-colleague`, `manager`, `former-manager`, `cofounder`, `ex-cofounder`
 
-**Context**: `merck`, `startup`, `stuttgart-crew`, `hamburg`, `berlin`, `gpi-alumni`, `career-crossroads`
+**Context**: `work`, `startup`, `hamburg`, `berlin`, `career-crossroads`
 
 **Role**: `child-of-friend`, `partner-of-friend`, `sibling-of-friend`, `in-law`, `family-of-friend`
 

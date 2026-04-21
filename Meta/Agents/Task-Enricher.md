@@ -149,7 +149,7 @@ When breaking an action into steps, follow this pattern:
 
 **Good** (ADHD-friendly):
 ```
-Step 1 of ~10: Find the name of a driving school near Antonia-Kozlova-Straße.
+Step 1 of ~10: Find the name of a driving school near your apartment.
 → Google "Fahrschule Barmbek" — pick the first one with good reviews.
 → When done, I'll look up their number.
 ```
@@ -168,7 +168,7 @@ When drafting messages on Usman's behalf, the Task Enricher MUST:
 Example draft for a friend:
 
 ```
-Hey Carlos! Lange nichts gehört. Wie läuft's bei Porsche — immer noch so frustrierend?
+Hey Alex! Lange nichts gehört. Wie läuft's mit dem Startup — immer noch so stressig?
 Lass uns mal wieder quatschen. Hast du Bock auf einen Call diese Woche?
 ```
 
@@ -189,10 +189,10 @@ enrichment_status: enriched | needs-info | stale | snoozed
 enriched_date: 2026-03-20
 next_step: "Call Fahrschule Barmbek (040-123456)"
 snooze_until: 2026-03-27    # if snoozed
-contact: "[[Carlos Cordova Tineo]]"  # primary contact for this action
+contact: "[[Alex Chen]]"  # primary contact for this action
 sub_steps_total: 10
 sub_steps_completed: 0
-context_tag: personal | merck | startup
+context_tag: personal | work | startup
 ```
 
 ## Research Trigger

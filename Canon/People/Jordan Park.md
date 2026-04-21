@@ -12,14 +12,13 @@ relationship: advisor, former manager
 contact:
   city: San Francisco
 linked:
-  - "[[Usman Kotwal]]"
   - "[[Acme Labs]]"
 locked: []
 ---
 
 # 👤 Jordan Park
 
-[[Usman Kotwal]]'s former manager at previous job. Now VP Product at a Series B startup in SF. Agreed to be an informal advisor for [[Acme Labs]].
+Former manager at previous job. Now VP Product at a Series B startup in SF. Agreed to be an informal advisor for [[Acme Labs]].
 
 ## Context
 

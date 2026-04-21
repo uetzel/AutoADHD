@@ -187,7 +187,7 @@ Before creating any new Canon entry (People, Places, Concepts, Events, etc.):
 When you extract a fact you're not confident about — dates, ages, spellings, relationships — flag it for human review:
 
 ```bash
-./Meta/scripts/queue-review.sh "Canon/People/[[Gibrael Kotwal]].md" "born" "1995" "Mentioned in voice memo — verify birthyear"
+./Meta/scripts/queue-review.sh "Canon/People/[[Alex Chen]].md" "born" "1992" "Mentioned in voice memo — verify birthyear"
 ```
 
 Flag these kinds of things:

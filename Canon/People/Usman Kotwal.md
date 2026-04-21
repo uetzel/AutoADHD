@@ -1,14 +1,15 @@
 ---
 type: person
 name: Usman Kotwal
-aliases: [Usman]
-created: 2026-01-01
-updated: 2026-02-01
+aliases: []
+created: 2026-01-10
+updated: 2026-01-25
 source: human
 role: Founder
-relationship: self — vault owner
+organization: "[[Acme Labs]]"
+relationship: vault-owner
 contact:
-  email: ""
+  email: usman@acmelabs.io
   linkedin: https://www.linkedin.com/in/usman-kotwal/
   city: Hamburg
 linked:
@@ -16,20 +17,27 @@ linked:
   - "[[Alex Chen]]"
   - "[[Sam Rivera]]"
   - "[[Jordan Park]]"
+  - "[[Build MVP Prototype]]"
+  - "[[Conduct User Interviews]]"
+  - "[[Set Up Home Office]]"
 locked:
   - name
 ---
 
 # 👤 Usman Kotwal
 
-That's me. The person this vault exists for. ADHD brain, systems thinker, amateur builder.
+Founder of [[Acme Labs]]. Built this vault because his ADHD brain kept losing every good idea between thinking it and writing it down. The system is the fix.
 
 ## Context
 
-Based in Hamburg. Building [[Acme Labs]] with [[Alex Chen]]. Background in strategy and org design. Thinks in systems but writes from the gut. Bilingual — German for feelings, English for strategy.
+Based in Hamburg. Background in strategy and product. Started building the vault as a personal tool — voice memos in, structured knowledge out. It worked well enough that other people asked for it.
 
-Built this vault because every productivity system I tried assumed I could maintain it. I can't. So I built one that maintains itself.
+Co-founding [[Acme Labs]] with [[Alex Chen]]. [[Sam Rivera]] helps with UX. [[Jordan Park]] is the informal advisor who keeps asking the hard questions.
 
-## How This Note Works
+## Mentions
 
-This is the owner node — most other notes link back here. The agents reference this person as the vault owner in their prompts. If you're setting up your own vault, replace this with your own entry.
+- 2026-01-25 - Voice - evening-rant.md — working from kitchen table, neck pain, prototype progress
+- 2026-01-22 - Voice - after-call-jordan.md — pricing discussion with Jordan
+- 2026-01-15 - Voice - morning-walkthrough.md — prototype timeline with Alex
+
+<!-- source: human, vault owner node -->

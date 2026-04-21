@@ -15,7 +15,6 @@ contact:
   phone: ""
   city: Berlin
 linked:
-  - "[[Usman Kotwal]]"
   - "[[Sam Rivera]]"
   - "[[Acme Labs]]"
   - "[[Build MVP Prototype]]"
@@ -25,7 +24,7 @@ locked:
 
 # 👤 Alex Chen
 
-Co-founder of [[Acme Labs]]. Met [[Usman Kotwal]] at a hackathon in 2024 — they built a terrible chatbot in 48 hours but the conversation about what they actually wanted to build was the real output.
+Co-founder of [[Acme Labs]]. Met at a hackathon in 2024 — we built a terrible chatbot in 48 hours but the conversation about what we actually wanted to build was the real output.
 
 ## Context
 

@@ -352,7 +352,7 @@ def _add_locked_field(content: str, field: str) -> str:
     """Safely add a field to the locked array in YAML frontmatter.
 
     Handles: no locked array yet, existing locked array, prevents duplicates,
-    and avoids the string-replace bugs that caused the Yousoof Kotwal corruption.
+    and avoids the string-replace bugs that caused a prior corruption.
     """
     lines = content.split('\n')
     # Find frontmatter boundaries
@@ -2648,7 +2648,7 @@ async def handle_review_callback(update: Update, context: ContextTypes.DEFAULT_T
     if not is_authorized(update):
         return
 
-    data = query.data  # e.g. "review_approve_yousoof-birth-year"
+    data = query.data  # e.g. "review_approve_alex-birth-year"
     parts = data.split("_", 2)  # ["review", "action", "item_id"]
     if len(parts) < 3:
         return

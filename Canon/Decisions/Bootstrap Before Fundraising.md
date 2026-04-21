@@ -15,7 +15,7 @@ linked:
 
 # ⚖️ Bootstrap Before Fundraising
 
-[[Usman Kotwal]]'s decision: build the MVP and get 5 paying users before talking to investors. [[Jordan Park]] was emphatic: "If you can't get 5 people to pay, you don't have a business — you have a hobby."
+Decision: build the MVP and get 5 paying users before talking to investors. [[Jordan Park]] was emphatic: "If you can't get 5 people to pay, you don't have a business — you have a hobby."
 
 ## Rationale
 
@@ -25,4 +25,4 @@ linked:
 
 ## Evolution
 
-- 2026-01-22 — Decision made after call with Jordan. Both Alex and Usman agree. <!-- source: ai-extracted, agent: Extractor, 2026-01-22T11:00 -->
+- 2026-01-22 — Decision made after call with Jordan. Both Alex and I agree. <!-- source: ai-extracted, agent: Extractor, 2026-01-22T11:00 -->

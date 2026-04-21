@@ -70,10 +70,10 @@ Quality control. Check extraction completeness and vault integrity. If there are
    - Check: exact match, substring match, last-name match, first-name + context match
    - If a match is found: MERGE into the existing entry (add new info, don't create duplicate)
    - If uncertain: flag in review log and queue for human review
-   - Pay special attention to: short first-name-only entries vs full-name entries (e.g. "Tamara" vs "Tamara Laupichler"), variant spellings, and entries where one is an alias of another
+   - Pay special attention to: short first-name-only entries vs full-name entries (e.g. "Sam" vs "Sam Rivera"), variant spellings, and entries where one is an alias of another
    - When merging: keep the more complete entry, add the other name as an alias, redirect all wikilinks
 
-11. **Tag Consistency**: Every Canon/People/ entry should have a `tags:` array. Check that tags are consistent (use existing tag vocabulary, don't invent new ones without reason). Standard tags include: family, best-friend, close-friend, friend, merck, startup, cofounder, colleague, former-colleague, manager, hamburg, stuttgart-crew, berlin, career-crossroads, and circle-specific tags.
+11. **Tag Consistency**: Every Canon/People/ entry should have a `tags:` array. Check that tags are consistent (use existing tag vocabulary, don't invent new ones without reason). Standard tags include: family, best-friend, close-friend, friend, work, startup, cofounder, colleague, former-colleague, manager, hamburg, berlin, career-crossroads, and circle-specific tags.
 
 12. **Action Field Completeness**: Flag actions where `mentions` contains placeholder text like "multiple memos" — these need the actual filenames backfilled. Also flag actions missing `owner`, `due`, or `output` fields.
 

@@ -8,7 +8,7 @@ source_agent: Extractor
 source_date: 2026-01-22T11:00
 first_mentioned: 2026-01-22
 due: 2026-03-15
-owner: "[[Usman Kotwal]]"
+owner: "[[You]]"
 output: "5 user interviews completed, insights documented"
 enrichment_status: needs-research
 mentions:

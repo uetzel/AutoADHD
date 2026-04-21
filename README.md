@@ -1,4 +1,4 @@
-# AutoADHD
+# VaultSandbox
 
 A personal operating system for the ADHD brain. You talk, the system remembers. You forget, the system reminds. You avoid, the system nudges. You succeed, the system connects the dots you didn't see.
 
@@ -8,7 +8,7 @@ Your only job: **think out loud** and **say yes or no**.
 
 ## What This Is
 
-AutoADHD is an [Obsidian](https://obsidian.md) vault wired with 12 AI agents that turn voice memos into structured knowledge, surface what matters, and execute tasks on your behalf — with your approval.
+VaultSandbox is an [Obsidian](https://obsidian.md) vault wired with 12 AI agents that turn voice memos into structured knowledge, surface what matters, and execute tasks on your behalf — with your approval.
 
 Built by someone with ADHD, for someone with ADHD. Every design decision optimizes for one thing: **reducing the gap between thinking and doing to zero friction**.
 
@@ -347,10 +347,10 @@ brew install --cask obsidian
 ```bash
 cd ~
 git clone https://github.com/uetzel/AutoADHD.git
-cd AutoADHD
+cd VaultSandbox
 ```
 
-Open Obsidian → "Open folder as vault" → select `~/AutoADHD`.
+Open Obsidian → "Open folder as vault" → select `~/VaultSandbox`.
 
 ### Step 3: Set Up Your Environment
 
@@ -564,6 +564,4 @@ MIT — use it, fork it, make it yours.
 
 ---
 
-Built by **Usman Kotwal** — an amateur with ADHD who got tired of forgetting everything.
-
-[GitHub](https://github.com/uetzel) · [LinkedIn](https://www.linkedin.com/in/usman-kotwal/)
+Built by [Usman Kotwal](https://github.com/uetzel) — an amateur with ADHD who got tired of forgetting everything. [LinkedIn](https://www.linkedin.com/in/usman-kotwal/) if you want to connect.

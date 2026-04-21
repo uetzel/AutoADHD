@@ -77,7 +77,7 @@ These are safe to apply without human approval:
 ### Tier 3: Queue for Human (write to review-queue, wait)
 
 - Anything involving locked fields
-- Conflicting facts between sources (e.g., Yousoof's birth year)
+- Conflicting facts between sources (e.g., Alex's birth year)
 - Deleting Canon entries
 - Architectural changes (new folders, new note types, new agents)
 - Anything the Retro explicitly marked as "needs human decision"
